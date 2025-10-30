@@ -38,7 +38,3 @@
 - [Sobre mí](sobre-mi.md)
 - [Proyectos](proyectos.md)
 - [Inicio](index.md)
-
----
-
-### ¡Espero saber de ti pronto! 🚀
