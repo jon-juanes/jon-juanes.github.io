@@ -1,11 +1,18 @@
 # Proyectos
 
-## [Nombre Proyecto 1]
-- **Descripción**: [descripción breve]
-- **Tecnologías**: Python, Git
-- **Enlace**: [GitHub URL]
+[← Volver al inicio](index.md)
 
-## [Nombre Proyecto 2]
-- **Descripción**: [descripción breve]  
-- **Tecnologías**: Grafana, Elastic, Influxdb
-- **Enlace**: [GitHub URL]
+---
+
+## 🌱 Proyectos Destacables
+
+Videojuego para móviles simple inspirado en "FlappyBird", a modo de proyecto para clase.
+---
+
+## 🔗 Enlaces
+
+- [GitHub Profile](https://github.com/jon-juanes)
+- [Sobre mí](sobre-mi.md)
+- [Contacto](contacto.md)
+
+---
