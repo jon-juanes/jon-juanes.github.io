@@ -6,7 +6,9 @@
 
 ## 📧 Email
 
-**jonjuanesalonso@gmail.com**
+Gmail: **jonjuanesalonso@gmail.com**
+
+📞: +34 688 71 47 02
 
 ---
 
