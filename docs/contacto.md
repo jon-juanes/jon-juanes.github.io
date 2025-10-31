@@ -16,7 +16,6 @@ Gmail: **jonjuanesalonso@gmail.com**
 
 **[@jon-juanes](https://github.com/jon-juanes)**
 
-
 ---
 
 ## 📍 Ubicación
@@ -31,11 +30,9 @@ Gmail: **jonjuanesalonso@gmail.com**
 ## 🌐 Idiomas
 
 - **Español**: Nativo
-- **Inglés**: (B2.2+)
+- **Inglés**: (B2.2)
 
 ---
-
-## 🔗 Más sobre mí
 
 - [Sobre mí](sobre-mi.md)
 - [Proyectos](proyectos.md)
