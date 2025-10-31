@@ -35,8 +35,6 @@ Trabajo con una amplia variedad de tecnologías:
 **Data & Monitoring**: Grafana, InfluxDB, Node-RED  
 **Tools**: GitHub, Visual Studio, Docker
 
-Mi enfoque es estar siempre aprendiendo y adaptándome a nuevas tecnologías según las necesidades del proyecto.
-
 ---
 
 ## 🌟 Más Allá del Código
