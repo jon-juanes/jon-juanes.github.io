@@ -7,6 +7,8 @@
 ## 🌱 Proyectos Destacables
 
 Videojuego para móviles simple inspirado en "FlappyBird", a modo de proyecto para clase.
+Consiste en que el jugador debe tocar la pantalla en el momento justo para evitar tocar los obstáculos.
+
 ---
 
 ## 🔗 Enlaces
