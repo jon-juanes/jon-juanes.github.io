@@ -55,4 +55,5 @@ Fuera del desarrollo, soy un entusiasta de:
 
 ---
 
-[Ver mis proyectos](proyectos.md) • [Contactar conmigo](contacto.md)
+[Ver mis proyectos](proyectos.md) • [Contactar conmigo](contacto.md) • <a href="cv-jon-juanes.pdf" download>Descargar CV</a>
+
