@@ -33,7 +33,7 @@ Trabajo con una amplia variedad de tecnologías:
 **Backend**: Java, Python, C, Visual Basic, SQL  
 **Frontend**: HTML, CSS, Flutter  
 **Data & Monitoring**: Grafana, InfluxDB, Node-RED  
-**Tools**: GitHub, Visual Studio, Docker
+**Tools**: GitHub, Visual Studio, Docker, SQLServer
 
 ---
 
