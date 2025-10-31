@@ -4,7 +4,7 @@
 
 ---
 
-## 📧 Email
+## 📧 Correo y Teléfono
 
 Gmail: **jonjuanesalonso@gmail.com**
 
