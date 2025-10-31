@@ -10,6 +10,10 @@ Videojuego para móviles simple inspirado en "FlappyBird", a modo de proyecto pa
 Consiste en que el jugador debe tocar la pantalla en el momento justo para evitar tocar los obstáculos.
 Desarrollado en Android Studio, consta de modo normal, difícil e infinito.
 
+<p align="center">
+  <img src="flappy.jpg" alt="Videojuego FlappyBird" width="400">
+</p>
+
 ---
 
 ## 🔗 Enlaces
