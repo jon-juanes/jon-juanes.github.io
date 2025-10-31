@@ -23,18 +23,20 @@ Desarrollador Full Stack con formación en Desarrollo de Aplicaciones Multiplata
 
 **Bachillerato de Ciencias Tecnológico**  
 *Finalizado 2021-2023*
+
 ---
+
 
 ## 💼 Experiencia Laboral
 
 **Prácticas en Desarrollo de Software**  
 *Compudata - Bilbao*
 
-Desarrollo de aplicaciones y experiencia práctica en entornos profesionales durante el período de formación en Desarrollo de Aplicaciones Multiplataforma.
+Desarrollo de aplicaciones en Flutter y manejo de ERPs, además de experiencia práctica en entornos profesionales durante el período de formación en Desarrollo de Aplicaciones Multiplataforma.
 
 ---
 
-## 🛠️ Habilidades Técnicas
+## 🛠️ Habilidades
 
 ### Lenguajes de Programación
 Java • Python • C • Visual Basic • SQL • HTML • CSS
@@ -43,7 +45,7 @@ Java • Python • C • Visual Basic • SQL • HTML • CSS
 Flutter • Node-RED • Grafana • InfluxDB
 
 ### Herramientas de Desarrollo
-GitHub • Visual Studio • Docker
+GitHub • Visual Studio • Docker • SQLServer • Android Studio
 
 ---
 
